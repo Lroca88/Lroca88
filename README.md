@@ -20,7 +20,7 @@
 ---
 
 ### 👨‍💻 About Me:
-I'm a Software Engineer who loves to untangle infrastructure challenges as much as I love untangling my golden retriever’s leash from the furniture. 🐾
+I'm a Software Engineer who loves to untangle infrastructure challenges as much as I love untangling my retriever’s 🐶🐾 leash from the furniture.
 - 🔭 I'm currently working as a Sr. Software Engineer at [Bitstop](https://bitstop.co/).
 - 🎓 Graduated with an M.S. in Computer Science from Georgia Tech.
 - 🌱 I’m currently learning about kernel development.
