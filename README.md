@@ -19,7 +19,14 @@
 
 ---
 
-### 👨‍💻
+### 👨‍💻 About Me:
+I’m a Software Engineer who loves to untangle infrastructure challenges as much as I love untangling my golden retriever’s leash from the furniture. 🐾
+- 🔭 I'm currently working as a Sr. Software Engineer at [Bitstop](https://bitstop.co/).
+- 🎓 Graduated with an M.S. in Computer Science from Georgia Tech.
+- 🌱 I’m currently learning about kernel development.
+- 👯 I’m looking to collaborate on the Linux kernel.
+- ⚡ Fun fact: “Why are my golden retriever and my two kids so alike? They only seem to understand my commands when there’s food involved!”
+
 
 <!--
 **Lroca88/Lroca88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
