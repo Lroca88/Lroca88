@@ -25,7 +25,7 @@ I'm a Software Engineer who loves to untangle infrastructure challenges as much 
 - 🎓 Graduated with an M.S. in Computer Science from Georgia Tech.
 - 🌱 I’m currently learning about kernel development.
 - 👯 I’m looking to collaborate on the Linux kernel.
-- ⚡ Fun fact: “Why are my golden retriever and my two kids so alike? They only understand my commands when there’s food involved!”
+- ⚡ Fun fact: “Why are my golden retriever and my two kids so alike? They only follow my instructions when there’s food involved!”
 
 
 <!--
