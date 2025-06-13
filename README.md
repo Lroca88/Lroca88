@@ -15,11 +15,11 @@
 ---
 
 ### 👨‍💻 About Me:
-I'm a Software Engineer who loves to untangle infrastructure challenges as much as I love untangling my retriever’s leash from the furniture. 🐶
-- 🔭 I'm currently working as a Sr. Software Engineer at [Bitstop](https://bitstop.co/).
+I'm a Software Engineer that enjoys working in Security and Networking related stuff
+- 🔭 I'm currently working as a Software Engineer at [Microsoft](https://www.microsoft.com/).
 - 🎓 Graduated with an M.S. in Computer Science from Georgia Tech.
-- 🌱 I’m currently learning about kernel development.
-- 👯 I’m looking to collaborate on the Linux kernel.
+- 🌱 Currently learning about kernel development.
+- 👯 Looking to collaborate on the Linux kernel.
 - ⚡ Fun fact: “Why are my golden retriever and my two kids so alike? They only follow my instructions when there’s food involved!”
 
 ### :hammer_and_wrench: Languages and Tools :
