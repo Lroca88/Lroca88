@@ -2,7 +2,6 @@
   <h1>
    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://github.com/Lroca88/Lroca88/assets/5395468/3193b90f-32b6-4ed8-984e-85cbc6380a1a" width="250px"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/luis-roca/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +16,7 @@
 ### 👨‍💻 About Me:
 I'm a Software Engineer that enjoys working in Security and Networking related stuff
 - 🔭 I'm currently working as a Software Engineer at [Microsoft](https://www.microsoft.com/).
-- 🎓 Graduated with an M.S. in Computer Science from Georgia Tech.
+- 🎓 Graduated with a M.S. in Computer Science from Georgia Tech.
 - 🌱 Currently learning about kernel development.
 - 👯 Looking to collaborate on the Linux kernel.
 - ⚡ Fun fact: “Why are my golden retriever and my two kids so alike? They only follow my instructions when there’s food involved!”
