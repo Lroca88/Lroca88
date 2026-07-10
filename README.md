@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me:
-I'm a Software Engineer that enjoys working in Security and Networking related stuff
+I'm a Software Engineer that enjoys working in Security and Networking related projects
 - 🔭 I'm currently working as a Software Engineer at [Microsoft](https://www.microsoft.com/).
 - 🎓 Graduated with a M.S. in Computer Science from Georgia Tech.
 - 🌱 Currently learning about kernel development.
